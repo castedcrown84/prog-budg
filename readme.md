@@ -5,8 +5,12 @@ This is a budget application that allows the user to keep record of their financ
 # Image
 <img src="public/assets/images/budg.png">
 
+# Video
 
-# Dependicies
+<source src="" type="video/mp4">
+
+
+# Dependecies
 Node
 Express
 Mongoose
