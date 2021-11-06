@@ -7,13 +7,12 @@ This is a budget application that allows the user to keep record of their financ
 
 # Video
 
-<source src="https://watch.screencastify.com/v/sztPuYT42qAhmJFukG3w" type="video/mp4">
-
 
 # Dependecies
-Node
-Express
-Mongoose
-Morgan
-Lite-server
+
+Node,
+Express,
+Mongoose,
+Morgan,
+Lite-server,
 compression
