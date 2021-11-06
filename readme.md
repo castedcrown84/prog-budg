@@ -7,7 +7,7 @@ This is a budget application that allows the user to keep record of their financ
 
 # Video
 
-<source src="" type="video/mp4">
+<source src="https://watch.screencastify.com/v/sztPuYT42qAhmJFukG3w" type="video/mp4">
 
 
 # Dependecies
