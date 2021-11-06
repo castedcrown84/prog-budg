@@ -6,7 +6,7 @@ This is a budget application that allows the user to keep record of their financ
 <img src="public/assets/images/budg.png">
 
 # Video
-
+https://drive.google.com/file/d/1LzSi8PMZSBSGLaSCncsHyStYskLvgKYT/view
 
 # Dependecies
 
